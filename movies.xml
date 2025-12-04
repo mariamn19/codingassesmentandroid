@@ -1,0 +1,33 @@
+<movies>
+    <movie>
+        <movieTitle>Inception</movieTitle>
+        <profit>829M</profit>
+        <movieGenre>Sci-Fi</movieGenre>
+        <releaseDate>2010</releaseDate>
+        <platform>Cinema</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Avatar</movieTitle>
+        <profit>2.9B</profit>
+        <movieGenre>Fantasy</movieGenre>
+        <releaseDate>2009</releaseDate>
+        <platform>Cinema</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Interstellar</movieTitle>
+        <profit>677M</profit>
+        <movieGenre>Sci-Fi</movieGenre>
+        <releaseDate>2014</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Dune</movieTitle>
+        <profit>402M</profit>
+        <movieGenre>Sci-Fi</movieGenre>
+        <releaseDate>2021</releaseDate>
+        <platform>HBO Max</platform>
+    </movie>
+</movies>
